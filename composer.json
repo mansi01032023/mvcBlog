@@ -1,0 +1,17 @@
+{
+    "name": "cedcoss/sample",
+    "autoload": {
+        "psr-4": {
+            "Cedcoss\\Sample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mansi Bisaria",
+            "email": "mansibisaria@cedcoss.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
